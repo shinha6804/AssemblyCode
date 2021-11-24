@@ -1,4 +1,4 @@
-Description: compare num1 and num2; if(num1< num2) set R0 =1 else R0 = -1
+;Description: compare num1 and num2; if(num1< num2) set R0 =1 else R0 = -1
 
 	AREA mydata, DATA, READWRITE
 	ALIGN
