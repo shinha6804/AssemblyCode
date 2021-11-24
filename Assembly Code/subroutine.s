@@ -1,4 +1,4 @@
-Description: Calls subroutine that retrieves parameter from stack and pops next available parameter.
+;Description: Calls subroutine that retrieves parameter from stack and pops next available parameter.
 	     In the case that the stack is empty, R1 will store 0xFFFFFFFF and R0 will store 0x00000001
 
 	AREA mydata, DATA, READWRITE
