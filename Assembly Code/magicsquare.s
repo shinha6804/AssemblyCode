@@ -1,4 +1,4 @@
-Description: checking if the given matrix is a magic square	
+;Description: checking if the given matrix is a magic square	
 	
 
 	AREA mydata, DATA, READWRITE
