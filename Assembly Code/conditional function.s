@@ -1,4 +1,4 @@
-Description: for input y, will compare with each condition given in the assignment and input result into R1 
+;Description: for input y, will compare with each condition given in the assignment and input result into R1 
 
 	AREA mydata, DATA, READWRITE
 	ALIGN
